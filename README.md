@@ -1,2 +1,2 @@
-# cubez
-🤓 Cubie Content Repository
+# Python
+🐍 Let's lean python
